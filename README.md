@@ -1,3 +1,6 @@
+CS 330 Dillon Belanger
+
+
 How do I approach designing software?
 
 Some new design skills I have started to learn about and persure is shapebuilding within OpenGL. I have enjoyed using it and found it very effective when using multiple shapes in complex scenes. 
